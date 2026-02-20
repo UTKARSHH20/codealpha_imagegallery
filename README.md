@@ -79,9 +79,6 @@ of the following method to download lightGallery.
     bower install lightgallery --save
     ```
 
--   [GitHub](https://github.com/sachinchoolur/lightGallery/archive/master.zip) -
-    You can also directly download lightgallery from GitHub
-
 -   CDN - If you prefer to use a CDN, you can load files via
     [jsdelivr](https://www.jsdelivr.com/projects/lightgallery),
     [cdnjs](https://cdnjs.com/libraries/lightgallery) or
@@ -179,7 +176,7 @@ Finally, you need to initiate the gallery by adding the following code.
 </script>
 ```
 
-[CodePen Demos](https://codepen.io/collection/BNNjpR)
+
 
 #### License Key
 
@@ -207,7 +204,7 @@ lightGallery supports all major browsers including IE 10 and above.
 If you want to use lightGallery to develop commercial sites, themes, projects,
 and applications, the Commercial license is the appropriate license. With this
 option, your source code is kept proprietary.
-[Read more about the commercial license](https://www.lightgalleryjs.com/license/)
+
 
 #### Open source license
 
@@ -216,4 +213,5 @@ the GNU GPL license v3, you may use this project under the terms of the GPLv3.
 
 ## Support
 
-If you have any questions, suggestions, feedback, please reach out to [contact@lightgalleryjs.com](mailto:contact@lightgalleryjs.com) or DM me on [twitter](https://twitter.com/SachinNeravath)
+If you have any questions, suggestions, feedback, please reach out to [contact@lightgalleryjs.com](mailto:utkarsh0989@gmail.com)
+
